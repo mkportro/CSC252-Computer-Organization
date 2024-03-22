@@ -1,0 +1,1 @@
+{"type": "primary", "version": 1, "sets": {"in": ["a1.c"], "out": ["a1.c"]}, "name": "a1", "signature": "fa509a2d1fe54bf1366e107237ffee54e4ba82f2e1d6eeb5576764d8c5d4f6be7e39afc7cb863b49cc8ff6d47e55c83dc41a887c498ba6d8c95b90dca8c4ee0d", "pubkey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAazF/5LVBcUuRzJzqOW6gIjMI4zp9C4Q1BoLpQlWgUBU=\n-----END PUBLIC KEY-----\n"}
